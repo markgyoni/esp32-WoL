@@ -15,7 +15,7 @@ Have at least [Python](https://www.python.org/downloads/) 3.7 installed
 - You will need to install the [esptool.py](https://github.com/espressif/esptool) tool to flash the firmware.
 
   ```
-  - pip install esptool
+  pip install esptool
   ```
 
 - Erase the ESP32 flash memory
