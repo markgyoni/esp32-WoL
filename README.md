@@ -10,9 +10,9 @@ You have to rename `env.example.py` to `env.py` and fill in the environment vari
 
 Follow the [MicroPython installer guide](https://micropython.org/download/ESP32_GENERIC/) to get started.
 
-- You will need to install the [esptool.py](https://github.com/espressif/esptool) tool to flash the firmware.
+Have at least [Python](https://www.python.org/downloads/) 3.7 installed
 
-  Install at least [Python](https://www.python.org/downloads/) 3.7
+- You will need to install the [esptool.py](https://github.com/espressif/esptool) tool to flash the firmware.
 
   ```
   - pip install esptool
